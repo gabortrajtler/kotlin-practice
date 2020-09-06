@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c3c9321-273f-4346-8881-5dea1bf8fcba" name="Default Changelist" comment="" />
+    <list default="true" id="3c3c9321-273f-4346-8881-5dea1bf8fcba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlin_study_twitter_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Smart casts/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Smart casts/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Smart casts/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Smart casts/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Lambdas/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Lambdas/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nothing type/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nothing type/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nothing type/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nothing type/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/String templates/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/String templates/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +41,13 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1guPXMw7tOofr4kHUNr8TW0ODPL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -37,12 +62,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.TaskKt (1)">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Introduction-Nothing_type" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TaskKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -60,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TaskKt (1)" />
         <item itemvalue="Kotlin.TaskKt" />
       </list>
     </recent_temporary>
@@ -76,5 +115,16 @@
       <updated>1598961542046</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

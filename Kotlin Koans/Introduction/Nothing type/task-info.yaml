@@ -5,15 +5,15 @@ files:
   visible: true
   placeholders:
   - offset: 74
-    length: 3
+    length: 9
     placeholder_text: '   '
     initial_state:
       length: 3
       offset: 74
     initialized_from_dependency: false
     possible_answer: ': Nothing'
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |-
     import java.lang.IllegalArgumentException
 
@@ -55,5 +55,5 @@ files:
         fun testLargeNumber() = testAge(200)
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

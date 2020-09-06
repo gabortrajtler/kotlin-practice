@@ -1,6 +1,6 @@
 import java.lang.IllegalArgumentException
 
-fun failWithWrongAge(age: Int?)    {
+fun failWithWrongAge(age: Int?) :Nothing {
     throw IllegalArgumentException("Wrong age: $age")
 }
 
@@ -10,5 +10,5 @@ fun checkAge(age: Int?) {
 }
 
 fun main() {
-    checkAge(10)
+    checkAge(1011)
 }

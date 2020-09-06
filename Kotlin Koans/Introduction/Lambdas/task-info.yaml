@@ -5,15 +5,15 @@ files:
   visible: true
   placeholders:
   - offset: 82
-    length: 6
+    length: 15
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 82
     initialized_from_dependency: false
     possible_answer: it % 2 == 0
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     fun containsEven(collection: Collection<Int>): Boolean =
             collection.any { TODO() }
@@ -36,5 +36,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

@@ -5,55 +5,55 @@ files:
   visible: true
   placeholders:
   - offset: 72
-    length: 6
+    length: 10
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 72
     initialized_from_dependency: false
     possible_answer: expr.value
-    selected: false
-    status: Unchecked
-  - offset: 101
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 105
+    length: 34
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 101
     initialized_from_dependency: false
     possible_answer: eval(expr.left) + eval(expr.right)
-    selected: false
-    status: Unchecked
-  - offset: 119
-    length: 14
+    selected: true
+    status: Solved
+  - offset: 151
+    length: 17
     placeholder_text: interface Expr
     initial_state:
       length: 14
       offset: 119
     initialized_from_dependency: false
     possible_answer: sealed class Expr
-    selected: false
-    status: Unchecked
-  - offset: 162
-    length: 4
+    selected: true
+    status: Solved
+  - offset: 197
+    length: 6
     placeholder_text: Expr
     initial_state:
       length: 4
       offset: 162
     initialized_from_dependency: false
     possible_answer: Expr()
-    selected: false
-    status: Unchecked
-  - offset: 212
-    length: 4
+    selected: true
+    status: Solved
+  - offset: 249
+    length: 6
     placeholder_text: Expr
     initial_state:
       length: 4
       offset: 212
     initialized_from_dependency: false
     possible_answer: Expr()
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |-
     fun eval(expr: Expr): Int =
             when (expr) {
@@ -88,5 +88,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
