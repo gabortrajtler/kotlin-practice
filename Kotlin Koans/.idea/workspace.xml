@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c3c9321-273f-4346-8881-5dea1bf8fcba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlin_study_twitter_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Data classes/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Data classes/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Sealed classes/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Sealed classes/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Smart casts/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Smart casts/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Smart casts/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Smart casts/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Lambdas/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Lambdas/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Lambdas/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Nothing type/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nothing type/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Nothing type/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nothing type/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nullable types/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/Nullable types/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/String templates/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/String templates/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction/String templates/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Extension functions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Extension functions/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Rename on import/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Rename on import/task-info.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1598961542046</updated>
     </task>
+    <task id="LOCAL-00001" summary="Implement &quot;Introduction&quot; koans and start &quot;Classes&quot;">
+      <created>1599410172300</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599410172300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implement &quot;Introduction&quot; koans and start &quot;Classes&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement &quot;Introduction&quot; koans and start &quot;Classes&quot;" />
   </component>
 </project>
