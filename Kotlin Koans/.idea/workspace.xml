@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c3c9321-273f-4346-8881-5dea1bf8fcba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Extension functions/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Extension functions/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Extension functions/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Rename on import/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Rename on import/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Rename on import/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/task-info.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
