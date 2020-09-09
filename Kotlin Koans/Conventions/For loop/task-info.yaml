@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 0
-    length: 51
+    length: 574
     placeholder_text: 'class DateRange(val start: MyDate, val end: MyDate)'
     initial_state:
       length: 51
@@ -28,8 +28,8 @@ files:
               }
           }
       }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |-
     class DateRange(val start: MyDate, val end: MyDate)
 
@@ -98,5 +98,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
