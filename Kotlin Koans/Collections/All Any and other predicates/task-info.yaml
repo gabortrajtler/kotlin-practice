@@ -5,45 +5,45 @@ files:
   visible: true
   placeholders:
   - offset: 119
-    length: 6
+    length: 33
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 119
     initialized_from_dependency: false
     possible_answer: customers.all { it.city == city }
-    selected: false
-    status: Unchecked
-  - offset: 250
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 277
+    length: 51
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 250
     initialized_from_dependency: false
     possible_answer: customers.any { it.city == city }
-    selected: false
-    status: Unchecked
-  - offset: 365
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 437
+    length: 35
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 365
     initialized_from_dependency: false
     possible_answer: customers.count { it.city == city }
-    selected: false
-    status: Unchecked
-  - offset: 505
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 606
+    length: 34
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 505
     initialized_from_dependency: false
     possible_answer: customers.find { it.city == city }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Return true if all customers are from a given city
     fun Shop.checkAllCustomersAreFrom(city: City): Boolean =
@@ -180,5 +180,5 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

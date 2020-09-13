@@ -5,15 +5,15 @@ files:
   visible: true
   placeholders:
   - offset: 155
-    length: 6
+    length: 169
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 155
     initialized_from_dependency: false
     possible_answer: customers.sortedByDescending { it.orders.size }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Return a list of customers, sorted in the descending by number of orders they have made
     fun Shop.getCustomersSortedByOrders(): List<Customer> =
@@ -129,5 +129,5 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
