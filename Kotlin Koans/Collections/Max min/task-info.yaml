@@ -5,17 +5,17 @@ files:
   visible: true
   placeholders:
   - offset: 122
-    length: 6
+    length: 145
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 122
     initialized_from_dependency: false
     possible_answer: customers.maxBy { it.orders.size }
-    selected: false
-    status: Unchecked
-  - offset: 281
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 420
+    length: 96
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -25,8 +25,8 @@ files:
       customer.orders
                       .flatMap(Order::products)
                       .maxBy(Product::price)
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Return a customer who has placed the maximum amount of orders
     fun Shop.getCustomerWithMaxOrders(): Customer? =
@@ -146,5 +146,5 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
