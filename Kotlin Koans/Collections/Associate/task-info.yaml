@@ -4,36 +4,36 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 116
-    length: 6
+  - offset: 108
+    length: 41
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 116
     initialized_from_dependency: false
     possible_answer: customers.associateBy(Customer::name)
-    selected: false
-    status: Unchecked
-  - offset: 231
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 258
+    length: 39
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 231
     initialized_from_dependency: false
     possible_answer: customers.associateWith(Customer::city)
-    selected: false
-    status: Unchecked
-  - offset: 353
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 413
+    length: 42
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 353
     initialized_from_dependency: false
     possible_answer: customers.associate { it.name to it.city }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |-
     // Build a map from the customer name to the customer
     fun Shop.nameToCustomerMap(): Map<String, Customer> =
@@ -169,5 +169,5 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

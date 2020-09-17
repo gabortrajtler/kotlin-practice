@@ -4,8 +4,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 134
-    length: 6
+  - offset: 132
+    length: 194
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -16,8 +16,8 @@ files:
           val (delivered, undelivered) = it.orders.partition { it.isDelivered }
           undelivered.size > delivered.size
       }.toSet()
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Return customers who have more undelivered orders than delivered
     fun Shop.getCustomersWithMoreUndeliveredOrders(): Set<Customer> = TODO()
@@ -126,5 +126,5 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
