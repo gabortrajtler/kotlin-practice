@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 193
-    length: 6
+    length: 122
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -17,10 +17,10 @@ files:
                   .filter(Order::isDelivered)
                   .flatMap(Order::products)
                   .maxBy(Product::price)
-    selected: false
-    status: Unchecked
-  - offset: 393
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 509
+    length: 89
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -30,10 +30,10 @@ files:
       return customers
                   .flatMap(Customer::getOrderedProducts)
                   .count { it == product }
-    selected: false
-    status: Unchecked
-  - offset: 462
-    length: 10
+    selected: true
+    status: Solved
+  - offset: 661
+    length: 30
     placeholder_text: /* TODO */
     initial_state:
       length: 10
@@ -41,7 +41,7 @@ files:
     initialized_from_dependency: false
     possible_answer: orders.flatMap(Order::products)
     selected: false
-    status: Unchecked
+    status: Solved
   text: |
     // Find the most expensive product among all the delivered products
     // ordered by the customer. Use `Order.isDelivered` flag.
@@ -173,5 +173,5 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

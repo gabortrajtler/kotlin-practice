@@ -4,14 +4,14 @@
     <list default="true" id="3c3c9321-273f-4346-8881-5dea1bf8fcba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Associate/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Associate/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Associate/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Associate/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/GroupBy/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/GroupBy/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Partition/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Sum/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sum/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/FlatMap/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/FlatMap/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Getting used to new style/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Getting used to new style/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Getting used to new style/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Getting used to new style/task-info.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
