@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 193
-    length: 6
+    length: 160
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -18,10 +18,10 @@ files:
                   .filter(Order::isDelivered)
                   .flatMap { it.products.asSequence() }
                   .maxBy(Product::price)
-    selected: false
-    status: Unchecked
-  - offset: 393
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 547
+    length: 115
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -32,18 +32,18 @@ files:
                   .asSequence()
                   .flatMap(Customer::getOrderedProducts)
                   .count { it == product }
-    selected: false
-    status: Unchecked
-  - offset: 466
-    length: 6
+    selected: true
+    status: Solved
+  - offset: 729
+    length: 73
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 466
     initialized_from_dependency: false
     possible_answer: orders.flatMap(Order::products).asSequence()
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     // Find the most expensive product among all the delivered products
     // ordered by the customer. Use `Order.isDelivered` flag.
@@ -175,5 +175,5 @@ files:
         override fun toString() = name
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
