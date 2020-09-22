@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 95
-    length: 3
+    length: 70
     placeholder_text: set
     initial_state:
       length: 3
@@ -16,8 +16,8 @@ files:
                   field = v
                   counter++
               }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |
     class PropertyExample() {
         var counter = 0
@@ -45,5 +45,5 @@ files:
 
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
