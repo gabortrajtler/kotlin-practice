@@ -4,18 +4,10 @@
     <list default="true" id="3c3c9321-273f-4346-8881-5dea1bf8fcba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builders/Function literals with receiver/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Function literals with receiver/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/String and map builders/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builders/String and map builders/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/String and map builders/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Delegates examples/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates examples/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Delegates how it works/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates how it works/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Lazy property/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Lazy property/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Properties/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Properties/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Html builders/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Html builders/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/Html builders/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/Html builders/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/The function apply/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builders/The function apply/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Builders/The function apply/task-info.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,12 +49,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.TaskKt (1)">
+  <component name="RunManager" selected="Kotlin.DemoKt">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Builders-Html_builders" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DemoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="TaskKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -93,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DemoKt" />
         <item itemvalue="Kotlin.TaskKt (1)" />
         <item itemvalue="Kotlin.TaskKt" />
       </list>
