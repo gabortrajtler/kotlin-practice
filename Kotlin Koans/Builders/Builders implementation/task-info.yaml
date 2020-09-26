@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 352
-    length: 10
+    length: 54
     placeholder_text: /* TODO */
     initial_state:
       length: 10
@@ -15,10 +15,10 @@ files:
       val tr = TR()
               tr.init()
               children += tr
-    selected: false
-    status: Unchecked
-  - offset: 437
-    length: 10
+    selected: true
+    status: Solved
+  - offset: 481
+    length: 54
     placeholder_text: /* TODO */
     initial_state:
       length: 10
@@ -26,7 +26,7 @@ files:
     initialized_from_dependency: false
     possible_answer: children += TD().apply(init)
     selected: false
-    status: Unchecked
+    status: Solved
   text: |-
     open class Tag(val name: String) {
         protected val children = mutableListOf<Tag>()
@@ -108,5 +108,5 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1
